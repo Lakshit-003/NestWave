@@ -4,10 +4,9 @@ NestWave is a modern web application showcasing smart home solutions and automat
 
 ## Features
 
-- 🏠 Modern, responsive landing page
+- 🏠 Responsive landing page
 - 🎨 Beautiful UI with Tailwind CSS
 - ⚡ Fast development with Vite
-- 📱 Mobile-first design
 - 🔍 SEO optimized
 - 📝 Interactive contact form
 - 🖼️ Image gallery
@@ -19,7 +18,6 @@ NestWave is a modern web application showcasing smart home solutions and automat
 - React 18
 - Vite
 - Tailwind CSS
-- ESLint
 - PostCSS
 - Lucide React Icons
 
@@ -71,7 +69,3 @@ npm run build
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
-
-## Contact
-
-Your Name - [bamaniyalakshit@gmail.com]
