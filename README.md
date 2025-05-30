@@ -33,7 +33,7 @@ NestWave is a modern web application showcasing smart home solutions and automat
 1. Clone the repository:
 
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Lakshit-003/NestWave.git
 cd nestwave
 ```
 
